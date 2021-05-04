@@ -15,7 +15,6 @@ I appreciate your attention and I hope that you look at my resume and touch me t
 Kind regards.
 
 
-`````
 <html>
 <head>
 <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
@@ -117,4 +116,3 @@ m/static/images/utils/firma/theme/url-red.png">antoniofernandez.pro</span><=
 </div>
 </body>
 </html>
-
