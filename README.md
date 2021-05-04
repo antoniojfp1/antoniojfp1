@@ -21,11 +21,10 @@ I love work on technology projects, assume new dares, and acquire experiences an
 I appreciate your attention and I hope that you look at my profile, and know more about me.
 
 
-### Linkedin: https://www.linkedin.com/in/antonio-fernandez-paternina/
-### mail: info@antoniofernandez.pro
-### web: https:\\antoniofernandez.pro
-
 
 Kind regards.
 
 # Antonio Jose Fernandez Paternin
+### Linkedin: https://www.linkedin.com/in/antonio-fernandez-paternina/
+### mail: info@antoniofernandez.pro
+### web: https:\\antoniofernandez.pro
